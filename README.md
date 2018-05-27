@@ -16,10 +16,10 @@ A character based neural network model to classify gender of Japanese names in K
 0000 40% (1m 1s) 0.0308 メグミ / girls_name ✓  
 ```
 ### Loss Curve
-![Loss curve](./img/Figure_1_jp.png)
+![Loss curve](./img/Figure_1_jp.png　=500x)
 
 ### Confusion Matrix
-![Confusion Matrix](./img/Figure_2_jp.png)
+![Confusion Matrix](./img/Figure_2_jp.png　=500x)
 
 ## Prediction
 ### Sample Output
